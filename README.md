@@ -1,0 +1,2 @@
+# stm32f1_esp32_udp
+使用udp协议让stm32f1和esp32单片机通信，esp32可以接收类似123R这样的指令，并把指令显示在iic的OLED屏幕上
